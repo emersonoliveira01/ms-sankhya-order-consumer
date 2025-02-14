@@ -1,1 +1,1 @@
-ms-sankhya-order-consumer
+ms-sankhya-orderMessage-consumer
